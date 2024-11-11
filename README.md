@@ -63,5 +63,5 @@ Flyway migrations are run automatically on startup. You can find the migration s
 
 ## API Documentation
 
-Swagger UI is available at [http://localhost:8084/docs](http://localhost:8084/docs). Use this documentation to explore and test API endpoints directly in the browser.
+Swagger UI is available at [http://localhost:8080/docs](http://localhost:8080/docs). Use this documentation to explore and test API endpoints directly in the browser.
 
